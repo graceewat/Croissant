@@ -1,0 +1,13 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: palevioletred;
+  text-decoration: underline;
+  padding-right: 20px;
+}
+p {
+  line-height: 36px;
+}
